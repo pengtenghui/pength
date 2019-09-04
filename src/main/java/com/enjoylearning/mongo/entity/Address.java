@@ -18,7 +18,7 @@ public class Address {
 	}
 	@Override
 	public String toString() {
-		return "Addr  ess [aCode=" + aCode + ", add=" + add + "]";
+		return "Address1 [aCode=" + aCode + ", add=" + add + "]";
 	}
 	
 	
