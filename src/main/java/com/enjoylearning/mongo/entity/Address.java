@@ -18,6 +18,7 @@ public class Address {
 	}
 	@Override
 	public String toString() {
+		System.out.println(aCode);
 		return "Address[aCode=" + aCode + ", add=" + add + "]";
 	}
 	
